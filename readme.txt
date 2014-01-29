@@ -6,3 +6,4 @@ To build the code you only need Version 2.0 of the .NET Runtime installed.
 
 If you have this you can simply invoke 'buildIt.bat' to build the code.
 
+Source: http://blogs.msdn.com/b/vancem/archive/2006/10/01/779503.aspx
